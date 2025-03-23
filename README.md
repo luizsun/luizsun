@@ -13,8 +13,8 @@
 
 #### 🛠️ Tecnologias e Ferramentas
 
-- Linguagens: `HTML`, `CSS`, `JavaScript`, `Python`.
-- Ferramentas: `Git`, `GitHub`, `VS Code`, `Figma`, `Orange Data Mining` .
+- Linguagens: `HTML`, `CSS`, `Python`.
+- Ferramentas: `VS Code`, `Figma`, `Orange Data Mining`.
 
 ---
 
